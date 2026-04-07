@@ -1,7 +1,4 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
-
-
-
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
@@ -250,4 +247,3 @@ These adapters consist of a short section of waveguide with a probe transition c
 
 ## Conclusions:
 Thus,the experiment is studied and verified
-
